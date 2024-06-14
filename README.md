@@ -10,6 +10,9 @@ https://dev.to/salgado
 https://www.linkedin.com/in/alex-salgado/
 
 
-
+Dia 13
 ![TDC Workshop](https://github.com/salgado/2024-evento-tdc-floripa/blob/main/tdc-workshop.jpeg)
+
+Dia 14
+![TDC Workshop](https://github.com/salgado/2024-evento-tdc-floripa/blob/main/talk2-tdc.jpeg)
 
